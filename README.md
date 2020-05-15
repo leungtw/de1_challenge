@@ -3,8 +3,8 @@
 
 ### Completed Question 1
 
-Answer 1: 25500 Rows \n
+Answer 1: 25500 Rows
 
-Answer 2: 25131 Rows \n
+Answer 2: 25131 Rows 
 
-Answer 3: See DE1.ipynb \n
+Answer 3: See DE1.ipynb
